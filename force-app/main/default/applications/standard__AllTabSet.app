@@ -3,7 +3,10 @@
     <defaultLandingTab>standard-home</defaultLandingTab>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+<<<<<<< HEAD
 
     
+=======
+>>>>>>> feature
     <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
 </CustomApplication>
